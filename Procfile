@@ -1,0 +1,1 @@
+web: gunicorn confog.wsgi --log-file -
